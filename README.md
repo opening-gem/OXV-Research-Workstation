@@ -4,10 +4,9 @@ Flame in Freefall is a research intelligence platform designed to ingest, normal
 
 Decades of space combustion research—from drop towers and parabolic flights to glovebox experiments aboard the International Space Station (ISS)—contain vital data for spacecraft fire safety, lunar base design (Artemis), and terrestrial energy efficiency. However, flight logs and datasets across the NASA Physical Sciences Informatics (PSI) repository often have inconsistent field definitions, unassigned outcome labels, and fragmented dataset revisions.
 
-This repository unifies those records into a version-tracked catalog paired with machine learning classification, hybrid retrieval rank
-<img width="1366" height="768" alt="swappy-20261115_114202" src="https://github.com/user-attachments/assets/d671e7c5-8c59-4b7a-ba25-fe5a2f922c38" />
-ing, and an evidence-grounded research assistant.
+This repository unifies those records into a version-tracked catalog paired with machine learning classification, hybrid retrieval ranking, and an evidence-grounded research assistant.
 
+<img width="1366" height="768" alt="swappy-20261115_114202" src="https://github.com/user-attachments/assets/d671e7c5-8c59-4b7a-ba25-fe5a2f922c38" />
 ---
 
 ## Key Capabilities
