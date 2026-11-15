@@ -56,8 +56,7 @@ This repository unifies those records into a version-tracked catalog paired with
 ### 1. Installation
 
 ```bash
-git clone https://github.com/your-username/flame-in-freefall.git
-cd flame-in-freefall
+git clone https://github.com/opening-gem/orbital-experimentation-volumetric
 
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
