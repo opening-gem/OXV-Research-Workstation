@@ -29,7 +29,7 @@ if STREAMLIT_AVAILABLE:
         initial_sidebar_state="expanded",
     )
 
-    # DaVinci Resolve / Blender engineering workstation aesthetic
+    
     st.markdown(
         """
         <style>
