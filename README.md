@@ -56,7 +56,7 @@ This repository unifies those records into a version-tracked catalog paired with
 ### 1. Installation
 
 ```bash
-git clone https://github.com/opening-gem/orbital-experimentation-volumetric
+git clone https://github.com/opening-gem/OXV-Research-Workstation
 
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
