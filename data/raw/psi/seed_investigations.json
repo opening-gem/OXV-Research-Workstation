@@ -1,0 +1,945 @@
+[
+  {
+    "id": "BASS-II",
+    "title": "Burning and Suppression of Solids - II",
+    "full_name": "Burning and Suppression of Solids - Second Generation",
+    "description": "BASS-II investigated the burning and extinction characteristics of a wide variety of fuel samples in microgravity aboard the International Space Station. The investigation examined how different materials burn in space to improve spacecraft fire safety. It studied flame spread rates, extinction limits, and the effectiveness of fire suppressants in microgravity conditions.",
+    "objectives": [
+      "Determine flame spread characteristics of solid fuels in microgravity",
+      "Evaluate fire suppression methods for spacecraft environments",
+      "Assess material flammability in reduced gravity conditions",
+      "Provide data for improved spacecraft fire safety standards"
+    ],
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "material_flammability"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Microgravity Science Glovebox",
+    "start_year": 2012,
+    "end_year": 2013,
+    "investigators": [
+      {
+        "name": "Paul Ferkul",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "Sandra Olson",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "doi": "10.60555/4qc4-de67",
+    "version": 4,
+    "keywords": [
+      "fire safety",
+      "flame spread",
+      "microgravity",
+      "solid fuels",
+      "suppression",
+      "ISS"
+    ],
+    "related_investigations": [
+      "BASS",
+      "BASS-III"
+    ],
+    "applications": [
+      "Spacecraft fire safety standards",
+      "Material selection for space habitats",
+      "Fire suppression system design"
+    ]
+  },
+  {
+    "id": "BASS",
+    "title": "Burning and Suppression of Solids",
+    "full_name": "Burning and Suppression of Solids",
+    "description": "BASS was the first generation investigation into solid material burning characteristics in microgravity on the ISS. The experiment studied how different solid materials ignite, burn, and extinguish in the quiescent microgravity environment of the space station. Results provided foundational data for NASA's fire safety design guidelines for crewed spacecraft and habitats.",
+    "objectives": [
+      "Characterize ignition and flame spread of solid materials in quiescent microgravity",
+      "Determine limiting oxygen concentrations for sustained burning of spacecraft materials",
+      "Evaluate the role of buoyancy-free environments on material flammability",
+      "Establish baseline fire safety data for long-duration spaceflight"
+    ],
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "material_flammability"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Microgravity Science Glovebox",
+    "start_year": 2011,
+    "end_year": 2012,
+    "investigators": [
+      {
+        "name": "Paul Ferkul",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "Sandra Olson",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      },
+      {
+        "name": "James S. T'ien",
+        "affiliation": "Case Western Reserve University",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-26",
+    "doi": null,
+    "version": 3,
+    "keywords": [
+      "fire safety",
+      "flame spread",
+      "microgravity",
+      "solid combustion",
+      "material testing",
+      "ISS"
+    ],
+    "related_investigations": [
+      "BASS-II",
+      "BASS-III"
+    ],
+    "applications": [
+      "Spacecraft fire safety protocol development",
+      "Material selection criteria for crewed vehicles",
+      "Fire detection system requirements"
+    ]
+  },
+  {
+    "id": "ACME",
+    "title": "Advanced Combustion via Microgravity Experiments",
+    "full_name": "Advanced Combustion via Microgravity Experiments",
+    "description": "ACME is a suite of five independent combustion science investigations conducted in the Combustion Integrated Rack aboard the ISS. The suite shares common hardware and infrastructure while addressing different fundamental combustion research questions. ACME investigations explore laminar gas-jet flames, electric field effects on flames, flame stability, soot formation, and burning rate phenomena in microgravity.",
+    "objectives": [
+      "Provide a comprehensive microgravity combustion research platform on the ISS",
+      "Enable multiple independent combustion experiments using shared hardware",
+      "Advance fundamental understanding of combustion processes without buoyancy effects",
+      "Generate experimental databases for validating computational combustion models"
+    ],
+    "categories": [
+      "fundamental_combustion",
+      "diffusion_flames",
+      "soot_formation"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2017,
+    "end_year": 2022,
+    "investigators": [
+      {
+        "name": "Dennis Stocker",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "Forman Williams",
+        "affiliation": "University of California San Diego",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "doi": null,
+    "version": 2,
+    "keywords": [
+      "combustion",
+      "microgravity",
+      "laminar flames",
+      "ISS",
+      "CIR",
+      "diffusion flames"
+    ],
+    "related_investigations": [
+      "ACME-BRE",
+      "ACME-CFI",
+      "ACME-E-FIELD"
+    ],
+    "applications": [
+      "Fundamental combustion science advancement",
+      "Computational model validation",
+      "Energy efficiency improvements",
+      "Pollutant reduction strategies"
+    ]
+  },
+  {
+    "id": "ACME-BRE",
+    "title": "ACME Burning Rate Emulator",
+    "full_name": "Advanced Combustion via Microgravity Experiments - Burning Rate Emulator",
+    "description": "The Burning Rate Emulator component of ACME studied the structure and stability limits of gas-jet diffusion flames that emulate the burning of condensed fuels such as plastics and wood. The investigation used gaseous fuel mixtures to simulate the gas-phase burning behavior of solid and liquid fuels, enabling precise control over fuel supply rates and compositions that is impossible with actual condensed fuels.",
+    "objectives": [
+      "Emulate burning behavior of condensed-phase fuels using controlled gas-jet flames",
+      "Determine extinction limits and stability boundaries of emulated solid-fuel flames",
+      "Characterize the structure of near-limit diffusion flames in microgravity",
+      "Validate computational models of condensed-fuel combustion processes"
+    ],
+    "categories": [
+      "fundamental_combustion",
+      "diffusion_flames",
+      "extinction_limits"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2017,
+    "end_year": 2021,
+    "investigators": [
+      {
+        "name": "James S. T'ien",
+        "affiliation": "Case Western Reserve University",
+        "role": "PI"
+      },
+      {
+        "name": "Paul Ferkul",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "doi": null,
+    "version": 2,
+    "keywords": [
+      "burning rate",
+      "diffusion flames",
+      "extinction",
+      "condensed fuels",
+      "emulation",
+      "microgravity"
+    ],
+    "related_investigations": [
+      "ACME",
+      "ACME-CFI",
+      "ACME-E-FIELD"
+    ],
+    "applications": [
+      "Improved fire safety modeling for condensed-phase fuels",
+      "Solid fuel combustion prediction",
+      "Spacecraft material hazard assessment"
+    ]
+  },
+  {
+    "id": "ACME-CFI",
+    "title": "ACME Coflow Laminar Diffusion Flame",
+    "full_name": "Advanced Combustion via Microgravity Experiments - Coflow Laminar Diffusion Flame",
+    "description": "The Coflow Laminar Diffusion Flame component of ACME investigated the soot formation, growth, and oxidation processes in laminar coflow diffusion flames under microgravity conditions. By eliminating buoyancy, the experiment provided unprecedented data on soot kinetics and radiative heat transfer in canonical flame configurations used worldwide for combustion model development.",
+    "objectives": [
+      "Quantify soot volume fraction and primary particle size distributions in microgravity diffusion flames",
+      "Measure radiative emission from well-characterized laminar flames without buoyancy",
+      "Provide benchmark experimental data for soot formation computational models",
+      "Determine the coupled effects of soot formation and radiative heat loss on flame structure"
+    ],
+    "categories": [
+      "fundamental_combustion",
+      "soot_formation",
+      "diffusion_flames"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2017,
+    "end_year": 2021,
+    "investigators": [
+      {
+        "name": "Marshall Long",
+        "affiliation": "Yale University",
+        "role": "PI"
+      },
+      {
+        "name": "Mitchell Smooke",
+        "affiliation": "Yale University",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-159",
+    "doi": null,
+    "version": 2,
+    "keywords": [
+      "soot",
+      "coflow",
+      "laminar diffusion flame",
+      "radiative transfer",
+      "microgravity",
+      "combustion modeling"
+    ],
+    "related_investigations": [
+      "ACME",
+      "ACME-BRE",
+      "ACME-E-FIELD",
+      "SPICE"
+    ],
+    "applications": [
+      "Soot formation model validation",
+      "Combustion efficiency optimization",
+      "Emission reduction in terrestrial combustors",
+      "Fire detection sensor calibration"
+    ]
+  },
+  {
+    "id": "ACME-E-FIELD",
+    "title": "ACME Electric-Field Effects on Laminar Diffusion Flames",
+    "full_name": "Advanced Combustion via Microgravity Experiments - Electric-Field Effects on Laminar Diffusion Flames",
+    "description": "The E-FIELD component of ACME examined how applied electric fields modify the behavior of laminar diffusion flames in microgravity. Electric fields interact with the ions naturally produced in hydrocarbon flames, generating ionic wind that alters flame shape, stability, soot production, and extinction behavior. Microgravity eliminates buoyancy-driven flows that mask electric field effects on Earth.",
+    "objectives": [
+      "Quantify the effects of DC electric fields on diffusion flame shape, luminosity, and stability",
+      "Determine the mechanism of electrically-induced ionic wind on flame behavior",
+      "Characterize soot formation modification under applied electric fields in buoyancy-free conditions",
+      "Explore electric fields as a potential fire suppression or combustion control mechanism"
+    ],
+    "categories": [
+      "fundamental_combustion",
+      "diffusion_flames",
+      "electric_field_effects"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2017,
+    "end_year": 2021,
+    "investigators": [
+      {
+        "name": "Derek Dunn-Rankin",
+        "affiliation": "University of California Irvine",
+        "role": "PI"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "doi": null,
+    "version": 2,
+    "keywords": [
+      "electric field",
+      "ionic wind",
+      "diffusion flames",
+      "flame control",
+      "microgravity",
+      "soot"
+    ],
+    "related_investigations": [
+      "ACME",
+      "ACME-BRE",
+      "ACME-CFI"
+    ],
+    "applications": [
+      "Novel fire suppression techniques using electric fields",
+      "Active combustion control for engines",
+      "Electrostatic flame manipulation technology",
+      "Soot reduction in combustion systems"
+    ]
+  },
+  {
+    "id": "FLEX",
+    "title": "Flame Extinguishment Experiment",
+    "full_name": "Flame Extinguishment Experiment",
+    "description": "FLEX studied the burning and extinction characteristics of individual droplets of various fuels in microgravity aboard the ISS. The experiment discovered the phenomenon of cool flame burning in fuel droplets, where combustion continues in a low-temperature, non-luminous mode after apparent radiative extinction. This discovery was of major scientific significance, revealing a two-stage burning process never before observed.",
+    "objectives": [
+      "Determine droplet burning rates and extinction diameters for various fuels in microgravity",
+      "Characterize radiative extinction limits for isolated fuel droplets",
+      "Discover and characterize low-temperature cool flame burning in microgravity",
+      "Provide droplet combustion data for validating detailed chemical kinetic models"
+    ],
+    "categories": [
+      "droplet_combustion",
+      "extinction_limits",
+      "cool_flames"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2009,
+    "end_year": 2012,
+    "investigators": [
+      {
+        "name": "Forman Williams",
+        "affiliation": "University of California San Diego",
+        "role": "PI"
+      },
+      {
+        "name": "Vedha Nayagam",
+        "affiliation": "Case Western Reserve University",
+        "role": "Co-I"
+      },
+      {
+        "name": "Daniel Dietrich",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-68",
+    "doi": "10.60555/qc57-zy42",
+    "version": 5,
+    "keywords": [
+      "droplet combustion",
+      "extinction",
+      "cool flames",
+      "microgravity",
+      "burning rate",
+      "heptane"
+    ],
+    "related_investigations": [
+      "FLEX-2",
+      "CLD"
+    ],
+    "applications": [
+      "Fuel spray combustion optimization",
+      "Engine combustion modeling",
+      "Fire safety in fuel storage",
+      "Cool flame chemistry understanding"
+    ]
+  },
+  {
+    "id": "FLEX-2",
+    "title": "Flame Extinguishment Experiment - 2",
+    "full_name": "Flame Extinguishment Experiment - 2",
+    "description": "FLEX-2 continued the droplet combustion research begun in FLEX, focusing on additional fuels and conditions to further characterize cool flame burning behavior. The experiment investigated the transition between hot flame and cool flame burning modes, providing critical data for understanding low-temperature combustion chemistry. FLEX-2 confirmed that cool flames are a persistent phenomenon across multiple fuel types.",
+    "objectives": [
+      "Extend FLEX cool flame observations to additional fuel types and ambient conditions",
+      "Characterize the transition between hot flame and cool flame burning in droplets",
+      "Measure cool flame droplet burning rates and extinction conditions",
+      "Provide data for developing chemical kinetic models of low-temperature combustion"
+    ],
+    "categories": [
+      "droplet_combustion",
+      "cool_flames",
+      "extinction_limits"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2012,
+    "end_year": 2015,
+    "investigators": [
+      {
+        "name": "Forman Williams",
+        "affiliation": "University of California San Diego",
+        "role": "PI"
+      },
+      {
+        "name": "Vedha Nayagam",
+        "affiliation": "Case Western Reserve University",
+        "role": "Co-I"
+      },
+      {
+        "name": "Daniel Dietrich",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-69",
+    "doi": "10.60555/kv83-rp21",
+    "version": 4,
+    "keywords": [
+      "droplet combustion",
+      "cool flames",
+      "low-temperature chemistry",
+      "extinction",
+      "microgravity"
+    ],
+    "related_investigations": [
+      "FLEX",
+      "CLD"
+    ],
+    "applications": [
+      "Low-temperature combustion engine design",
+      "Cool flame chemistry modeling",
+      "Fuel spray behavior prediction",
+      "Ignition delay prediction"
+    ]
+  },
+  {
+    "id": "SAFFIRE-I",
+    "title": "Spacecraft Fire Safety Demonstration - I",
+    "full_name": "Spacecraft Fire Experiment - I",
+    "description": "Saffire-I was the first in a series of large-scale fire experiments conducted aboard uncrewed Cygnus cargo vehicles after departure from the ISS. The experiment ignited a large sample of cotton-fiberglass blend fabric to study flame spread and growth in a realistic spacecraft environment at scales impossible to test on the ISS. Saffire-I demonstrated that large-scale fire behavior in microgravity differs significantly from ground predictions.",
+    "objectives": [
+      "Conduct the first large-scale fire growth experiment in a realistic spacecraft environment",
+      "Measure flame spread rate over a large (0.4 m x 0.95 m) sample in low gravity",
+      "Validate computational fire growth models at spacecraft-relevant scales",
+      "Assess oxygen depletion and thermal environment during a large fire in an enclosed vehicle"
+    ],
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "large_scale_fire"
+    ],
+    "status": "completed",
+    "platform": "cygnus",
+    "facility": "Saffire Experiment Module",
+    "start_year": 2016,
+    "end_year": 2016,
+    "investigators": [
+      {
+        "name": "Gary Ruff",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "David Urban",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      },
+      {
+        "name": "Paul Ferkul",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-98",
+    "doi": null,
+    "version": 3,
+    "keywords": [
+      "spacecraft fire",
+      "large-scale",
+      "flame spread",
+      "Cygnus",
+      "fire growth",
+      "microgravity"
+    ],
+    "related_investigations": [
+      "SAFFIRE-II",
+      "SAFFIRE-III",
+      "SAFFIRE-IV"
+    ],
+    "applications": [
+      "Spacecraft fire detection and suppression system design",
+      "Crew vehicle fire safety certification",
+      "Fire growth prediction for exploration vehicles",
+      "Emergency response protocol development"
+    ]
+  },
+  {
+    "id": "SAFFIRE-II",
+    "title": "Spacecraft Fire Safety Demonstration - II",
+    "full_name": "Spacecraft Fire Experiment - II",
+    "description": "Saffire-II examined the flammability of nine different spacecraft-relevant material samples in a low-gravity environment aboard a Cygnus vehicle. Unlike Saffire-I's single large sample, Saffire-II tested multiple smaller material samples to evaluate material screening test methods and determine if standard ground-based flammability tests accurately predict material behavior in space.",
+    "objectives": [
+      "Evaluate flammability characteristics of multiple spacecraft materials in microgravity",
+      "Compare microgravity flammability results with ground-based material screening tests (NASA-STD-6001)",
+      "Assess whether normal gravity test methods adequately screen materials for spaceflight",
+      "Provide material flammability data for next-generation spacecraft design"
+    ],
+    "categories": [
+      "spacecraft_fire_safety",
+      "material_flammability",
+      "flame_spread"
+    ],
+    "status": "completed",
+    "platform": "cygnus",
+    "facility": "Saffire Experiment Module",
+    "start_year": 2016,
+    "end_year": 2016,
+    "investigators": [
+      {
+        "name": "Gary Ruff",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "David Urban",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      },
+      {
+        "name": "Sandra Olson",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-99",
+    "doi": null,
+    "version": 2,
+    "keywords": [
+      "material flammability",
+      "spacecraft fire safety",
+      "material screening",
+      "Cygnus",
+      "microgravity"
+    ],
+    "related_investigations": [
+      "SAFFIRE-I",
+      "SAFFIRE-III",
+      "SAFFIRE-IV"
+    ],
+    "applications": [
+      "Material flammability test standard revision",
+      "Spacecraft material certification processes",
+      "Material selection for Orion and Gateway",
+      "Fire risk assessment methodology"
+    ]
+  },
+  {
+    "id": "SAFFIRE-III",
+    "title": "Spacecraft Fire Safety Demonstration - III",
+    "full_name": "Spacecraft Fire Experiment - III",
+    "description": "Saffire-III repeated the large-scale fire growth experiment of Saffire-I with modifications to study flame spread in a reduced-oxygen environment (lower than the standard ISS atmospheric oxygen concentration). The experiment investigated whether reduced oxygen atmospheres proposed for future exploration vehicles would provide adequate fire safety margins and how flame behavior changes with reduced ambient oxygen.",
+    "objectives": [
+      "Study large-scale flame spread in reduced oxygen atmospheres relevant to exploration vehicles",
+      "Determine the effect of oxygen concentration on flame spread rate at spacecraft scale",
+      "Evaluate fire safety margins of proposed low-oxygen exploration atmospheres",
+      "Compare results with Saffire-I standard atmosphere experiments"
+    ],
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "large_scale_fire"
+    ],
+    "status": "completed",
+    "platform": "cygnus",
+    "facility": "Saffire Experiment Module",
+    "start_year": 2017,
+    "end_year": 2017,
+    "investigators": [
+      {
+        "name": "Gary Ruff",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "David Urban",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-100",
+    "doi": null,
+    "version": 2,
+    "keywords": [
+      "large-scale fire",
+      "reduced oxygen",
+      "spacecraft fire safety",
+      "flame spread",
+      "Cygnus",
+      "exploration atmosphere"
+    ],
+    "related_investigations": [
+      "SAFFIRE-I",
+      "SAFFIRE-II",
+      "SAFFIRE-IV"
+    ],
+    "applications": [
+      "Exploration atmosphere design for Artemis missions",
+      "Fire safety requirements for Gateway and Mars transit vehicles",
+      "Oxygen concentration trade studies for crew vehicle design",
+      "Fire growth model validation at reduced oxygen"
+    ]
+  },
+  {
+    "id": "SAME",
+    "title": "Smoke Aerosol Measurement Experiment",
+    "full_name": "Smoke Aerosol Measurement Experiment",
+    "description": "SAME investigated the particle size distribution and morphology of smoke produced by overheating and burning common spacecraft materials in microgravity. The experiment generated smoke from five different materials (Teflon, Kapton, lampwick cotton, silicone rubber, and Pyrell foam) in the MSG facility on the ISS. Results were used to optimize fire detection sensor design for spacecraft.",
+    "objectives": [
+      "Measure the aerosol size distribution of smoke generated from spacecraft materials in microgravity",
+      "Characterize smoke particle morphology and number density for improved fire detector design",
+      "Compare microgravity smoke properties with ground-based measurements",
+      "Provide data for next-generation spacecraft fire detection system requirements"
+    ],
+    "categories": [
+      "spacecraft_fire_safety",
+      "smoke_detection",
+      "aerosol_science"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Microgravity Science Glovebox",
+    "start_year": 2007,
+    "end_year": 2010,
+    "investigators": [
+      {
+        "name": "David Urban",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "Gary Ruff",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      },
+      {
+        "name": "George Mulholland",
+        "affiliation": "NIST",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-102",
+    "doi": null,
+    "version": 3,
+    "keywords": [
+      "smoke",
+      "aerosol",
+      "fire detection",
+      "particle size",
+      "spacecraft materials",
+      "microgravity"
+    ],
+    "related_investigations": [
+      "BASS",
+      "BASS-II"
+    ],
+    "applications": [
+      "Spacecraft fire detector design and calibration",
+      "Smoke sensor technology development",
+      "Fire detection algorithm improvement",
+      "Pre-fire warning system development"
+    ]
+  },
+  {
+    "id": "SPICE",
+    "title": "Smoke Point In Co-flow Experiment",
+    "full_name": "Smoke Point In Co-flow Experiment",
+    "description": "SPICE measured the smoke points of gaseous hydrocarbon fuels in coflow laminar jet diffusion flames in microgravity. The smoke point is the maximum flame length at which a fuel burns without emitting soot, and it is an important property for characterizing fuel sooting propensity. Microgravity provides buoyancy-free conditions essential for accurate smoke point determination, which is complicated by buoyancy effects on Earth.",
+    "objectives": [
+      "Measure smoke points of gaseous fuels in buoyancy-free coflow diffusion flames",
+      "Determine the relationship between fuel molecular structure and sooting propensity in microgravity",
+      "Validate theoretical predictions of smoke point dependence on fuel type and flow conditions",
+      "Establish reference smoke point data for combustion model development"
+    ],
+    "categories": [
+      "fundamental_combustion",
+      "soot_formation",
+      "diffusion_flames"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2009,
+    "end_year": 2012,
+    "investigators": [
+      {
+        "name": "David Urban",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "Peter Sunderland",
+        "affiliation": "University of Maryland",
+        "role": "Co-I"
+      },
+      {
+        "name": "Zeng-Guang Yuan",
+        "affiliation": "National Center for Space Exploration Research",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-60",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-60",
+    "doi": null,
+    "version": 3,
+    "keywords": [
+      "smoke point",
+      "soot",
+      "diffusion flame",
+      "coflow",
+      "fuel sooting",
+      "microgravity"
+    ],
+    "related_investigations": [
+      "ACME-CFI"
+    ],
+    "applications": [
+      "Fuel quality and sooting characterization",
+      "Emission standard development",
+      "Combustor design optimization",
+      "Environmental pollution modeling"
+    ]
+  },
+  {
+    "id": "CLD",
+    "title": "Cool Flames Investigation",
+    "full_name": "Cool Flames Investigation with Gaseous Fuels",
+    "description": "The Cool Flames Investigation (formally Cool Diffusion Flames) specifically studied the low-temperature cool flame combustion phenomenon first discovered during the FLEX experiments. Cool flames burn at temperatures of 500-800 K, far below normal hot flame temperatures, and are sustained by low-temperature oxidation chemistry involving peroxide species. This investigation used gaseous fuels to provide better-controlled studies of the cool flame regime.",
+    "objectives": [
+      "Establish and characterize stable cool diffusion flames using gaseous fuel surrogates",
+      "Measure cool flame temperatures, species concentrations, and burning rates",
+      "Determine the chemical kinetics controlling cool flame initiation and sustainability",
+      "Investigate the transition dynamics between hot flame and cool flame burning regimes"
+    ],
+    "categories": [
+      "cool_flames",
+      "fundamental_combustion",
+      "low_temperature_chemistry"
+    ],
+    "status": "completed",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2017,
+    "end_year": 2019,
+    "investigators": [
+      {
+        "name": "Forman Williams",
+        "affiliation": "University of California San Diego",
+        "role": "PI"
+      },
+      {
+        "name": "Vedha Nayagam",
+        "affiliation": "Case Western Reserve University",
+        "role": "Co-I"
+      },
+      {
+        "name": "Daniel Dietrich",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-10",
+    "doi": null,
+    "version": 2,
+    "keywords": [
+      "cool flames",
+      "low-temperature combustion",
+      "NTC chemistry",
+      "peroxides",
+      "diffusion flames",
+      "microgravity"
+    ],
+    "related_investigations": [
+      "FLEX",
+      "FLEX-2"
+    ],
+    "applications": [
+      "Low-temperature ignition prediction for engines",
+      "Cool flame chemistry modeling for HCCI engines",
+      "Fire hazard assessment for cool flame scenarios",
+      "Fundamental kinetic mechanism development"
+    ]
+  },
+  {
+    "id": "SoFIE",
+    "title": "Solid Fuel Ignition and Extinction",
+    "full_name": "Solid Fuel Ignition and Extinction",
+    "description": "SoFIE is a suite of experiments aboard the ISS investigating the flammability of solid materials in microgravity under conditions relevant to spacecraft and planetary habitats. SoFIE experiments examine ignition, flame growth, flame spread, and extinction of solid materials under varying ambient pressure, oxygen concentration, and low-speed forced flows. It builds on BASS heritage to address material flammability for Artemis and future exploration missions.",
+    "objectives": [
+      "Determine ignition and extinction limits of solid materials under exploration atmosphere conditions",
+      "Characterize flame spread over solid fuels under low-speed concurrent and opposed forced flows",
+      "Evaluate material flammability at reduced pressures and elevated oxygen concentrations for exploration atmospheres",
+      "Provide material flammability data for next-generation spacecraft fire safety standards (NASA-STD-6001B)"
+    ],
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "material_flammability",
+      "ignition"
+    ],
+    "status": "active",
+    "platform": "iss",
+    "facility": "Combustion Integrated Rack",
+    "start_year": 2022,
+    "end_year": null,
+    "investigators": [
+      {
+        "name": "Sandra Olson",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "Paul Ferkul",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      },
+      {
+        "name": "James S. T'ien",
+        "affiliation": "Case Western Reserve University",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "psi_url": "https://psi.nasa.gov/physci/repo/data/investigations/PSI-25",
+    "doi": null,
+    "version": 1,
+    "keywords": [
+      "solid fuel",
+      "ignition",
+      "extinction",
+      "flammability",
+      "exploration atmosphere",
+      "microgravity",
+      "ISS"
+    ],
+    "related_investigations": [
+      "BASS",
+      "BASS-II",
+      "SAFFIRE-I",
+      "SAFFIRE-II"
+    ],
+    "applications": [
+      "Artemis mission fire safety design",
+      "Gateway habitat material selection",
+      "NASA-STD-6001 revision support",
+      "Lunar and Mars habitat fire safety"
+    ]
+  },
+  {
+    "id": "FSDC",
+    "title": "Forced-flow Flame Spread and Drop Tower Combustion",
+    "full_name": "Forced Ignition and Spread Test / Drop Tower Combustion Experiments",
+    "description": "FSDC encompasses ground-based forced-flow flame spread tests and drop tower combustion experiments conducted at NASA Glenn Research Center's 2.2 Second Drop Tower and Zero Gravity Research Facility. These short-duration microgravity experiments provided critical data on flame spread over solid fuels under controlled forced-flow conditions, serving as precursors and complements to ISS-based experiments.",
+    "objectives": [
+      "Measure flame spread rates over thin solid fuels under controlled forced-flow conditions in microgravity",
+      "Characterize the effect of forced-flow velocity on flame spread and extinction behavior",
+      "Determine concurrent and opposed flow flame spread limits at varying oxygen concentrations",
+      "Provide precursor data for ISS-based material flammability experiments"
+    ],
+    "categories": [
+      "flame_spread",
+      "material_flammability",
+      "ground_based_research"
+    ],
+    "status": "completed",
+    "platform": "ground",
+    "facility": "NASA Glenn 2.2 Second Drop Tower / Zero Gravity Research Facility",
+    "start_year": 1995,
+    "end_year": 2015,
+    "investigators": [
+      {
+        "name": "Sandra Olson",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "PI"
+      },
+      {
+        "name": "Paul Ferkul",
+        "affiliation": "NASA Glenn Research Center",
+        "role": "Co-I"
+      }
+    ],
+    "source_url": "https://www1.grc.nasa.gov/space/combustion-and-reacting-systems/",
+    "psi_url": "https://www1.grc.nasa.gov/space/combustion-and-reacting-systems/",
+    "doi": null,
+    "version": 1,
+    "keywords": [
+      "flame spread",
+      "drop tower",
+      "forced flow",
+      "solid fuels",
+      "microgravity",
+      "ground-based"
+    ],
+    "related_investigations": [
+      "BASS",
+      "BASS-II",
+      "SoFIE"
+    ],
+    "applications": [
+      "ISS experiment design support",
+      "Flame spread model validation",
+      "Material screening test development",
+      "Forced-flow combustion understanding"
+    ]
+  }
+]

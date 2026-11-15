@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & virtualenvs
+.venv/
+venv/
+ENV/
+env/
+flame_project/venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.zip
+*.tar.gz
+*.tgz
+*.pdf
+*handbook*
+*.ms
+*.ps
+
+# Testing & caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+/tmp/
+*.log
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~

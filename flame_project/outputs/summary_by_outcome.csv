@@ -1,0 +1,6 @@
+,oxygen,oxygen,oxygen,oxygen,oxygen,oxygen,oxygen,oxygen,airflow,airflow,airflow,airflow,airflow,airflow,airflow,airflow
+,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max
+outcome_raw,,,,,,,,,,,,,,,,
+Completion,27.0,21.296,4.96,14.0,18.0,21.0,23.0,34.0,27.0,6.481,10.635,0.0,0.0,0.0,15.0,30.0
+Disruption,61.0,24.984,4.894,17.0,21.0,24.0,30.0,34.0,61.0,9.098,14.362,0.0,0.0,0.0,15.0,70.0
+Extinction,186.0,18.274,3.37,12.0,16.0,18.0,21.0,30.0,186.0,13.79,18.858,0.0,0.0,0.0,25.0,70.0

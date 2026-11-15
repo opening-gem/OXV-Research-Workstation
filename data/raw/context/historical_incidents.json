@@ -1,0 +1,132 @@
+[
+  {
+    "id": "apollo-1",
+    "name": "Apollo 1 Fire",
+    "date": "1967-01-27",
+    "location": "Launch Complex 34, Cape Kennedy Air Force Station, Florida",
+    "description": "A cabin fire erupted during a launch rehearsal test for the Apollo 1 mission (AS-204), killing astronauts Virgil 'Gus' Grissom, Ed White, and Roger Chaffee. The fire started in the pure-oxygen, high-pressure (16.7 psi) cabin atmosphere and rapidly engulfed the command module. The crew was unable to open the inward-opening hatch before being overcome by toxic fumes.",
+    "causes": [
+      "Pure oxygen atmosphere at 16.7 psi (above sea-level pressure) created an extremely flammable environment",
+      "Probable electrical arc ignition from damaged wiring or electrical equipment",
+      "Excessive amount of flammable materials (nylon netting, Velcro, coolant leaks) in the cabin",
+      "Inward-opening hatch design prevented rapid egress under pressure differential",
+      "Lack of adequate emergency procedures for pad fires"
+    ],
+    "consequences": [
+      "Deaths of astronauts Grissom, White, and Chaffee",
+      "Complete redesign of the Apollo command module",
+      "Transition from pure oxygen to mixed nitrogen-oxygen atmosphere for ground operations",
+      "Replacement of flammable materials with fire-resistant alternatives",
+      "Redesign of hatch to outward-opening quick-release mechanism",
+      "Establishment of rigorous material flammability testing standards (NHB 8060.1, later NASA-STD-6001)",
+      "20-month delay to the Apollo program"
+    ],
+    "relevance_to_research": "The Apollo 1 fire was the seminal event that drove NASA to establish systematic material flammability testing and spacecraft fire safety research. Every subsequent combustion experiment in microgravity, from BASS to SoFIE, traces its justification to the lessons of Apollo 1. The fire demonstrated that flammability behavior is critically dependent on atmospheric composition and pressure — precisely the variables studied in modern microgravity combustion investigations.",
+    "references": [
+      "Apollo 204 Review Board Final Report (1967)",
+      "NASA SP-4206: Stages to Saturn, Chapter 10",
+      "Spacecraft Fire Safety, NASA Conference Publication 2476 (1987)"
+    ]
+  },
+  {
+    "id": "mir-fire",
+    "name": "Mir Space Station Oxygen Generator Fire",
+    "date": "1997-02-23",
+    "location": "Mir Space Station, Kvant-1 module, Low Earth Orbit",
+    "description": "A solid-fuel oxygen generator (SFOG) canister malfunctioned and caught fire aboard the Russian space station Mir, producing a jet of molten metal and sparks that lasted approximately 90 seconds. The fire filled the station with thick smoke, partially blocking the path to one of two Soyuz escape capsules. Six crew members (three Russian, two American, one German) managed the emergency without evacuation, but the event was the most serious in-space fire in the history of spaceflight.",
+    "causes": [
+      "Malfunction of a Vika solid-fuel oxygen generator (lithium perchlorate canister)",
+      "Possible manufacturing defect or contamination in the oxygen-generating cartridge",
+      "Extremely vigorous self-sustaining reaction in the lithium perchlorate fuel that could not be extinguished",
+      "Accumulation of surplus SFOGs stored near the generator increased fire load"
+    ],
+    "consequences": [
+      "90-second fire producing molten metal droplets and dense smoke in microgravity",
+      "Crew used three fire extinguishers and wet towels to contain damage and protect adjacent equipment",
+      "Station atmosphere contaminated with smoke and combustion products for days",
+      "Near-blockage of escape route to one of two Soyuz vehicles",
+      "Intensified international focus on spacecraft fire safety research",
+      "Accelerated development of improved fire detection and suppression systems for ISS",
+      "Led to better crew training protocols for fire emergencies in space"
+    ],
+    "relevance_to_research": "The Mir fire demonstrated that fire in microgravity poses unique challenges: smoke does not rise and stratify as on Earth, making detection difficult; flame behavior and heat transfer differ from ground predictions; and evacuation from a space station is far more constrained than from ground facilities. The incident directly motivated NASA investigations like SAME (to characterize microgravity smoke for detector design) and the SAFFIRE series (to study large-scale fire behavior in spacecraft).",
+    "references": [
+      "NASA/TM-1999-209255: Fire on Mir",
+      "Jerry Linenger, 'Off the Planet', 2000",
+      "Friedman, R., 'Fire Safety in Spacecraft', Fire and Materials, 1996"
+    ]
+  },
+  {
+    "id": "skylab-4-overheating",
+    "name": "Skylab Airlock Module Overheating Events",
+    "date": "1974-02-01",
+    "location": "Skylab Space Station, Low Earth Orbit",
+    "description": "During the Skylab missions, several thermal incidents and minor overheating events occurred, including an overheated battery and a small electrical fire in an equipment bay. While none produced open flames, these incidents highlighted the potential for electrical equipment failures to cause fires in the enclosed spacecraft environment. The micrometeoroid shield loss on Skylab also caused extreme thermal challenges throughout the missions.",
+    "causes": [
+      "Electrical system stress from operating outside designed thermal parameters",
+      "Loss of micrometeoroid shield and sun shield altering thermal environment",
+      "High power demands on battery and electrical systems",
+      "Equipment operation outside nominal thermal limits"
+    ],
+    "consequences": [
+      "Increased attention to thermal management in spacecraft fire prevention",
+      "Improved electrical system fault detection and isolation designs",
+      "Informed material selection for high-temperature environments in spacecraft",
+      "Contributed to understanding of fire precursors in space systems"
+    ],
+    "relevance_to_research": "Skylab overheating events illustrated the connection between thermal management failures and fire risk in spacecraft. These events reinforced the need for fire prevention through design, complementing the post-fire safety research paradigm. The lessons informed the design of ISS electrical systems and motivated research into pre-fire detection via particulate and gas sensing.",
+    "references": [
+      "NASA SP-400: Skylab, Our First Space Station",
+      "Skylab Mission Evaluation Reports (NASA TM X-64814)",
+      "NASA-STD-6001: Flammability, Offgassing, and Compatibility Requirements"
+    ]
+  },
+  {
+    "id": "shuttle-sts-6-apu-fire",
+    "name": "Space Shuttle APU Hydrazine Fire (STS-6)",
+    "date": "1983-04-09",
+    "location": "Space Shuttle Challenger, Kennedy Space Center, post-landing",
+    "description": "After the STS-6 mission landing, a hydrazine leak from an Auxiliary Power Unit (APU) resulted in a fire in the aft compartment of Space Shuttle Challenger. The fire was detected and extinguished by ground crews after landing. While this occurred on the ground, the hydrazine fuel and APU system operated throughout the mission, and the failure mode highlighted risks that could have manifested during reentry or on-orbit operations.",
+    "causes": [
+      "Hydrazine fuel leak from an Auxiliary Power Unit",
+      "Contact of leaked hydrazine with hot APU components caused ignition",
+      "Seal or fitting failure in the APU hydrazine fuel system"
+    ],
+    "consequences": [
+      "Redesign of APU fuel system seals and containment",
+      "Improved post-landing hazardous fuel safing procedures",
+      "Enhanced leak detection capabilities for hypergolic propellants",
+      "Informed fire safety design for systems using reactive propellants"
+    ],
+    "relevance_to_research": "This incident demonstrated the fire risks from hypergolic and reactive propellants in spacecraft systems. While microgravity combustion research primarily focuses on material and fuel burning fundamentals, the APU fire motivated research into how reactive chemical fires behave differently from ordinary material fires, relevant to understanding fire risks in propulsion system compartments.",
+    "references": [
+      "STS-6 Mission Report, JSC-18983, May 1983",
+      "Space Shuttle APU System Design Review Documentation",
+      "Columbia Accident Investigation Board Report, Chapter 6 (discusses APU hazards)"
+    ]
+  },
+  {
+    "id": "iss-smoke-event-2018",
+    "name": "ISS Zvezda Module Smoke Alarm Event",
+    "date": "2021-09-09",
+    "location": "International Space Station, Zvezda Service Module, Low Earth Orbit",
+    "description": "A smoke alarm was triggered in the Russian Zvezda service module aboard the ISS during automatic overnight battery charging. The crew reported the smell of burnt plastic and observed visible smoke, which activated the station's smoke detection system. The crew used portable air filters (HEPA) to clean the atmosphere and identified an electrical component as the source. The event was resolved without crew evacuation.",
+    "causes": [
+      "Electrical equipment overheating or short circuit during battery charging cycle",
+      "Possible component degradation in aging station electrical systems",
+      "Triggering of smoke detection system by combustion products from overheated electronics"
+    ],
+    "consequences": [
+      "Crew activated emergency response and air purification procedures",
+      "Confirmed effectiveness of ISS smoke detection system in actual event",
+      "Highlighted ongoing fire risk from aging electrical systems on ISS",
+      "Reinforced need for continued investment in fire safety research for long-duration spaceflight"
+    ],
+    "relevance_to_research": "This recent ISS event validated the ongoing importance of NASA's microgravity fire safety research program. It demonstrated that fire-related events remain a real operational risk on the ISS and highlighted the relevance of SAME-type smoke characterization data and BASS/SoFIE material flammability research to current operations. The event reinforced the need for advanced fire detection systems that can distinguish nuisance signals from genuine pre-fire conditions.",
+    "references": [
+      "ISS On-orbit Status Reports, September 2021",
+      "Roscosmos Official Statements, September 2021",
+      "NASA ISS Safety and Mission Assurance Reports"
+    ]
+  }
+]

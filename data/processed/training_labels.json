@@ -1,0 +1,187 @@
+[
+  {
+    "investigation_id": "BASS-II",
+    "title": "Burning and Suppression of Solids - II",
+    "text": "Burning and Suppression of Solids - II. BASS-II investigated the burning and extinction characteristics of a wide variety of fuel samples in microgravity aboard the International Space Station. The investigation examined how different materials burn in space to improve spacecraft fire safety. It studied flame spread rates, extinction limits, and the effectiveness of fire suppressants in microgravity conditions. Determine flame spread characteristics of solid fuels in microgravity Evaluate fire suppression methods for spacecraft environments Assess material flammability in reduced gravity conditions Provide data for improved spacecraft fire safety standards",
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "material_flammability"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "BASS",
+    "title": "Burning and Suppression of Solids",
+    "text": "Burning and Suppression of Solids. BASS was the first generation investigation into solid material burning characteristics in microgravity on the ISS. The experiment studied how different solid materials ignite, burn, and extinguish in the quiescent microgravity environment of the space station. Results provided foundational data for NASA's fire safety design guidelines for crewed spacecraft and habitats. Characterize ignition and flame spread of solid materials in quiescent microgravity Determine limiting oxygen concentrations for sustained burning of spacecraft materials Evaluate the role of buoyancy-free environments on material flammability Establish baseline fire safety data for long-duration spaceflight",
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "material_flammability"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "ACME",
+    "title": "Advanced Combustion via Microgravity Experiments",
+    "text": "Advanced Combustion via Microgravity Experiments. ACME is a suite of five independent combustion science investigations conducted in the Combustion Integrated Rack aboard the ISS. The suite shares common hardware and infrastructure while addressing different fundamental combustion research questions. ACME investigations explore laminar gas-jet flames, electric field effects on flames, flame stability, soot formation, and burning rate phenomena in microgravity. Provide a comprehensive microgravity combustion research platform on the ISS Enable multiple independent combustion experiments using shared hardware Advance fundamental understanding of combustion processes without buoyancy effects Generate experimental databases for validating computational combustion models",
+    "categories": [
+      "other",
+      "soot_formation"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "ACME-BRE",
+    "title": "ACME Burning Rate Emulator",
+    "text": "ACME Burning Rate Emulator. The Burning Rate Emulator component of ACME studied the structure and stability limits of gas-jet diffusion flames that emulate the burning of condensed fuels such as plastics and wood. The investigation used gaseous fuel mixtures to simulate the gas-phase burning behavior of solid and liquid fuels, enabling precise control over fuel supply rates and compositions that is impossible with actual condensed fuels. Emulate burning behavior of condensed-phase fuels using controlled gas-jet flames Determine extinction limits and stability boundaries of emulated solid-fuel flames Characterize the structure of near-limit diffusion flames in microgravity Validate computational models of condensed-fuel combustion processes",
+    "categories": [
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "ACME-CFI",
+    "title": "ACME Coflow Laminar Diffusion Flame",
+    "text": "ACME Coflow Laminar Diffusion Flame. The Coflow Laminar Diffusion Flame component of ACME investigated the soot formation, growth, and oxidation processes in laminar coflow diffusion flames under microgravity conditions. By eliminating buoyancy, the experiment provided unprecedented data on soot kinetics and radiative heat transfer in canonical flame configurations used worldwide for combustion model development. Quantify soot volume fraction and primary particle size distributions in microgravity diffusion flames Measure radiative emission from well-characterized laminar flames without buoyancy Provide benchmark experimental data for soot formation computational models Determine the coupled effects of soot formation and radiative heat loss on flame structure",
+    "categories": [
+      "other",
+      "soot_formation"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "ACME-E-FIELD",
+    "title": "ACME Electric-Field Effects on Laminar Diffusion Flames",
+    "text": "ACME Electric-Field Effects on Laminar Diffusion Flames. The E-FIELD component of ACME examined how applied electric fields modify the behavior of laminar diffusion flames in microgravity. Electric fields interact with the ions naturally produced in hydrocarbon flames, generating ionic wind that alters flame shape, stability, soot production, and extinction behavior. Microgravity eliminates buoyancy-driven flows that mask electric field effects on Earth. Quantify the effects of DC electric fields on diffusion flame shape, luminosity, and stability Determine the mechanism of electrically-induced ionic wind on flame behavior Characterize soot formation modification under applied electric fields in buoyancy-free conditions Explore electric fields as a potential fire suppression or combustion control mechanism",
+    "categories": [
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "FLEX",
+    "title": "Flame Extinguishment Experiment",
+    "text": "Flame Extinguishment Experiment. FLEX studied the burning and extinction characteristics of individual droplets of various fuels in microgravity aboard the ISS. The experiment discovered the phenomenon of cool flame burning in fuel droplets, where combustion continues in a low-temperature, non-luminous mode after apparent radiative extinction. This discovery was of major scientific significance, revealing a two-stage burning process never before observed. Determine droplet burning rates and extinction diameters for various fuels in microgravity Characterize radiative extinction limits for isolated fuel droplets Discover and characterize low-temperature cool flame burning in microgravity Provide droplet combustion data for validating detailed chemical kinetic models",
+    "categories": [
+      "droplet_combustion",
+      "other",
+      "cool_flames"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "FLEX-2",
+    "title": "Flame Extinguishment Experiment - 2",
+    "text": "Flame Extinguishment Experiment - 2. FLEX-2 continued the droplet combustion research begun in FLEX, focusing on additional fuels and conditions to further characterize cool flame burning behavior. The experiment investigated the transition between hot flame and cool flame burning modes, providing critical data for understanding low-temperature combustion chemistry. FLEX-2 confirmed that cool flames are a persistent phenomenon across multiple fuel types. Extend FLEX cool flame observations to additional fuel types and ambient conditions Characterize the transition between hot flame and cool flame burning in droplets Measure cool flame droplet burning rates and extinction conditions Provide data for developing chemical kinetic models of low-temperature combustion",
+    "categories": [
+      "droplet_combustion",
+      "cool_flames",
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "SAFFIRE-I",
+    "title": "Spacecraft Fire Safety Demonstration - I",
+    "text": "Spacecraft Fire Safety Demonstration - I. Saffire-I was the first in a series of large-scale fire experiments conducted aboard uncrewed Cygnus cargo vehicles after departure from the ISS. The experiment ignited a large sample of cotton-fiberglass blend fabric to study flame spread and growth in a realistic spacecraft environment at scales impossible to test on the ISS. Saffire-I demonstrated that large-scale fire behavior in microgravity differs significantly from ground predictions. Conduct the first large-scale fire growth experiment in a realistic spacecraft environment Measure flame spread rate over a large (0.4 m x 0.95 m) sample in low gravity Validate computational fire growth models at spacecraft-relevant scales Assess oxygen depletion and thermal environment during a large fire in an enclosed vehicle",
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "SAFFIRE-II",
+    "title": "Spacecraft Fire Safety Demonstration - II",
+    "text": "Spacecraft Fire Safety Demonstration - II. Saffire-II examined the flammability of nine different spacecraft-relevant material samples in a low-gravity environment aboard a Cygnus vehicle. Unlike Saffire-I's single large sample, Saffire-II tested multiple smaller material samples to evaluate material screening test methods and determine if standard ground-based flammability tests accurately predict material behavior in space. Evaluate flammability characteristics of multiple spacecraft materials in microgravity Compare microgravity flammability results with ground-based material screening tests (NASA-STD-6001) Assess whether normal gravity test methods adequately screen materials for spaceflight Provide material flammability data for next-generation spacecraft design",
+    "categories": [
+      "spacecraft_fire_safety",
+      "material_flammability",
+      "flame_spread"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "SAFFIRE-III",
+    "title": "Spacecraft Fire Safety Demonstration - III",
+    "text": "Spacecraft Fire Safety Demonstration - III. Saffire-III repeated the large-scale fire growth experiment of Saffire-I with modifications to study flame spread in a reduced-oxygen environment (lower than the standard ISS atmospheric oxygen concentration). The experiment investigated whether reduced oxygen atmospheres proposed for future exploration vehicles would provide adequate fire safety margins and how flame behavior changes with reduced ambient oxygen. Study large-scale flame spread in reduced oxygen atmospheres relevant to exploration vehicles Determine the effect of oxygen concentration on flame spread rate at spacecraft scale Evaluate fire safety margins of proposed low-oxygen exploration atmospheres Compare results with Saffire-I standard atmosphere experiments",
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "SAME",
+    "title": "Smoke Aerosol Measurement Experiment",
+    "text": "Smoke Aerosol Measurement Experiment. SAME investigated the particle size distribution and morphology of smoke produced by overheating and burning common spacecraft materials in microgravity. The experiment generated smoke from five different materials (Teflon, Kapton, lampwick cotton, silicone rubber, and Pyrell foam) in the MSG facility on the ISS. Results were used to optimize fire detection sensor design for spacecraft. Measure the aerosol size distribution of smoke generated from spacecraft materials in microgravity Characterize smoke particle morphology and number density for improved fire detector design Compare microgravity smoke properties with ground-based measurements Provide data for next-generation spacecraft fire detection system requirements",
+    "categories": [
+      "spacecraft_fire_safety",
+      "smoke_detection",
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "SPICE",
+    "title": "Smoke Point In Co-flow Experiment",
+    "text": "Smoke Point In Co-flow Experiment. SPICE measured the smoke points of gaseous hydrocarbon fuels in coflow laminar jet diffusion flames in microgravity. The smoke point is the maximum flame length at which a fuel burns without emitting soot, and it is an important property for characterizing fuel sooting propensity. Microgravity provides buoyancy-free conditions essential for accurate smoke point determination, which is complicated by buoyancy effects on Earth. Measure smoke points of gaseous fuels in buoyancy-free coflow diffusion flames Determine the relationship between fuel molecular structure and sooting propensity in microgravity Validate theoretical predictions of smoke point dependence on fuel type and flow conditions Establish reference smoke point data for combustion model development",
+    "categories": [
+      "other",
+      "soot_formation"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "CLD",
+    "title": "Cool Flames Investigation",
+    "text": "Cool Flames Investigation. The Cool Flames Investigation (formally Cool Diffusion Flames) specifically studied the low-temperature cool flame combustion phenomenon first discovered during the FLEX experiments. Cool flames burn at temperatures of 500-800 K, far below normal hot flame temperatures, and are sustained by low-temperature oxidation chemistry involving peroxide species. This investigation used gaseous fuels to provide better-controlled studies of the cool flame regime. Establish and characterize stable cool diffusion flames using gaseous fuel surrogates Measure cool flame temperatures, species concentrations, and burning rates Determine the chemical kinetics controlling cool flame initiation and sustainability Investigate the transition dynamics between hot flame and cool flame burning regimes",
+    "categories": [
+      "cool_flames",
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "SOFIE",
+    "title": "Solid Fuel Ignition and Extinction",
+    "text": "Solid Fuel Ignition and Extinction. SoFIE is a suite of experiments aboard the ISS investigating the flammability of solid materials in microgravity under conditions relevant to spacecraft and planetary habitats. SoFIE experiments examine ignition, flame growth, flame spread, and extinction of solid materials under varying ambient pressure, oxygen concentration, and low-speed forced flows. It builds on BASS heritage to address material flammability for Artemis and future exploration missions. Determine ignition and extinction limits of solid materials under exploration atmosphere conditions Characterize flame spread over solid fuels under low-speed concurrent and opposed forced flows Evaluate material flammability at reduced pressures and elevated oxygen concentrations for exploration atmospheres Provide material flammability data for next-generation spacecraft fire safety standards (NASA-STD-6001B)",
+    "categories": [
+      "spacecraft_fire_safety",
+      "flame_spread",
+      "material_flammability",
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  },
+  {
+    "investigation_id": "FSDC",
+    "title": "Forced-flow Flame Spread and Drop Tower Combustion",
+    "text": "Forced-flow Flame Spread and Drop Tower Combustion. FSDC encompasses ground-based forced-flow flame spread tests and drop tower combustion experiments conducted at NASA Glenn Research Center's 2.2 Second Drop Tower and Zero Gravity Research Facility. These short-duration microgravity experiments provided critical data on flame spread over solid fuels under controlled forced-flow conditions, serving as precursors and complements to ISS-based experiments. Measure flame spread rates over thin solid fuels under controlled forced-flow conditions in microgravity Characterize the effect of forced-flow velocity on flame spread and extinction behavior Determine concurrent and opposed flow flame spread limits at varying oxygen concentrations Provide precursor data for ISS-based material flammability experiments",
+    "categories": [
+      "flame_spread",
+      "material_flammability",
+      "other"
+    ],
+    "reviewed_by": "NASA Science Team / Flame in Freefall Expert Curators",
+    "review_date": "2024-01-15"
+  }
+]

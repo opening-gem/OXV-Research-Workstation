@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flame-in-freefall"
+version = "1.0.0"
+description = "NASA microgravity combustion research intelligence, provenance tracking, and RAG assistant"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "Flame in Freefall Research Team" }
+]
+license = { text = "MIT" }
+dependencies = [
+    "streamlit>=1.28.0",
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0",
+    "pydantic>=2.0.0",
+    "plotly>=5.15.0",
+    "scikit-learn>=1.3.0",
+    "requests>=2.31.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

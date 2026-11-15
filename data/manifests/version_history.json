@@ -1,0 +1,146 @@
+{
+  "BASS-II": [
+    {
+      "timestamp": "2026-11-13T08:53:46.329925+00:00",
+      "version_number": 4,
+      "doi": "10.60555/4qc4-de67",
+      "description": "Initial catalogue entry for version 4.",
+      "changed_fields": []
+    }
+  ],
+  "BASS": [
+    {
+      "timestamp": "2026-11-13T08:53:46.330426+00:00",
+      "version_number": 3,
+      "doi": null,
+      "description": "Initial catalogue entry for version 3.",
+      "changed_fields": []
+    }
+  ],
+  "ACME": [
+    {
+      "timestamp": "2026-11-13T08:53:46.330874+00:00",
+      "version_number": 2,
+      "doi": null,
+      "description": "Initial catalogue entry for version 2.",
+      "changed_fields": []
+    }
+  ],
+  "ACME-BRE": [
+    {
+      "timestamp": "2026-11-13T08:53:46.331299+00:00",
+      "version_number": 2,
+      "doi": null,
+      "description": "Initial catalogue entry for version 2.",
+      "changed_fields": []
+    }
+  ],
+  "ACME-CFI": [
+    {
+      "timestamp": "2026-11-13T08:53:46.331830+00:00",
+      "version_number": 2,
+      "doi": null,
+      "description": "Initial catalogue entry for version 2.",
+      "changed_fields": []
+    }
+  ],
+  "ACME-E-FIELD": [
+    {
+      "timestamp": "2026-11-13T08:53:46.332268+00:00",
+      "version_number": 2,
+      "doi": null,
+      "description": "Initial catalogue entry for version 2.",
+      "changed_fields": []
+    }
+  ],
+  "FLEX": [
+    {
+      "timestamp": "2026-11-13T08:53:46.332764+00:00",
+      "version_number": 5,
+      "doi": "10.60555/qc57-zy42",
+      "description": "Initial catalogue entry for version 5.",
+      "changed_fields": []
+    }
+  ],
+  "FLEX-2": [
+    {
+      "timestamp": "2026-11-13T08:53:46.333240+00:00",
+      "version_number": 4,
+      "doi": "10.60555/kv83-rp21",
+      "description": "Initial catalogue entry for version 4.",
+      "changed_fields": []
+    }
+  ],
+  "SAFFIRE-I": [
+    {
+      "timestamp": "2026-11-13T08:53:46.333729+00:00",
+      "version_number": 3,
+      "doi": null,
+      "description": "Initial catalogue entry for version 3.",
+      "changed_fields": []
+    }
+  ],
+  "SAFFIRE-II": [
+    {
+      "timestamp": "2026-11-13T08:53:46.334226+00:00",
+      "version_number": 2,
+      "doi": null,
+      "description": "Initial catalogue entry for version 2.",
+      "changed_fields": []
+    }
+  ],
+  "SAFFIRE-III": [
+    {
+      "timestamp": "2026-11-13T08:53:46.334715+00:00",
+      "version_number": 2,
+      "doi": null,
+      "description": "Initial catalogue entry for version 2.",
+      "changed_fields": []
+    }
+  ],
+  "SAME": [
+    {
+      "timestamp": "2026-11-13T08:53:46.335223+00:00",
+      "version_number": 3,
+      "doi": null,
+      "description": "Initial catalogue entry for version 3.",
+      "changed_fields": []
+    }
+  ],
+  "SPICE": [
+    {
+      "timestamp": "2026-11-13T08:53:46.335765+00:00",
+      "version_number": 3,
+      "doi": null,
+      "description": "Initial catalogue entry for version 3.",
+      "changed_fields": []
+    }
+  ],
+  "CLD": [
+    {
+      "timestamp": "2026-11-13T08:53:46.336309+00:00",
+      "version_number": 2,
+      "doi": null,
+      "description": "Initial catalogue entry for version 2.",
+      "changed_fields": []
+    }
+  ],
+  "SOFIE": [
+    {
+      "timestamp": "2026-11-13T08:53:46.336862+00:00",
+      "version_number": 1,
+      "doi": null,
+      "description": "Initial catalogue entry for version 1.",
+      "changed_fields": []
+    }
+  ],
+  "FSDC": [
+    {
+      "timestamp": "2026-11-13T08:53:46.337454+00:00",
+      "version_number": 1,
+      "doi": null,
+      "description": "Initial catalogue entry for version 1.",
+      "changed_fields": []
+    }
+  ]
+}

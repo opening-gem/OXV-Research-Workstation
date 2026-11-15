@@ -1,0 +1,4 @@
+,oxygen,airflow,sustained
+oxygen,1.0,0.088,0.27
+airflow,0.088,1.0,-0.134
+sustained,0.27,-0.134,1.0

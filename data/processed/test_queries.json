@@ -1,0 +1,164 @@
+[
+  {
+    "query_id": "Q01",
+    "query": "fire detection systems for lunar habitats",
+    "description": "Aerosol and smoke sensing technologies for enclosed planetary environments",
+    "relevant_investigations": [
+      "SAME",
+      "SAFFIRE-I",
+      "SAFFIRE-II",
+      "SPICE"
+    ],
+    "relevance_grades": {
+      "SAME": 3,
+      "SAFFIRE-I": 2,
+      "SAFFIRE-II": 2,
+      "SPICE": 2
+    }
+  },
+  {
+    "query_id": "Q02",
+    "query": "how do flames spread on materials in space",
+    "description": "Solid surface flame spread under microgravity and low convective flow",
+    "relevant_investigations": [
+      "BASS-II",
+      "BASS",
+      "SOFIE",
+      "SAFFIRE-I",
+      "FSDC"
+    ],
+    "relevance_grades": {
+      "BASS-II": 3,
+      "SOFIE": 3,
+      "BASS": 2,
+      "SAFFIRE-I": 2,
+      "FSDC": 2
+    }
+  },
+  {
+    "query_id": "Q03",
+    "query": "droplet combustion extinction and evaporation in microgravity",
+    "description": "Isolated droplet burning, cool flames, and radiative extinction",
+    "relevant_investigations": [
+      "FLEX",
+      "FLEX-2",
+      "CLD"
+    ],
+    "relevance_grades": {
+      "FLEX": 3,
+      "FLEX-2": 3,
+      "CLD": 3
+    }
+  },
+  {
+    "query_id": "Q04",
+    "query": "large scale spacecraft fire safety and atmospheric suppression",
+    "description": "Realistic full-scale compartment fire spread and active suppression testing",
+    "relevant_investigations": [
+      "SAFFIRE-I",
+      "SAFFIRE-II",
+      "SAFFIRE-III",
+      "BASS-II"
+    ],
+    "relevance_grades": {
+      "SAFFIRE-I": 3,
+      "SAFFIRE-II": 3,
+      "SAFFIRE-III": 3,
+      "BASS-II": 2
+    }
+  },
+  {
+    "query_id": "Q05",
+    "query": "cool flame phenomena and low temperature chemical kinetics",
+    "description": "Quasi-steady cool flames burning without visible radiation",
+    "relevant_investigations": [
+      "CLD",
+      "FLEX-2",
+      "FLEX"
+    ],
+    "relevance_grades": {
+      "CLD": 3,
+      "FLEX-2": 3,
+      "FLEX": 2
+    }
+  },
+  {
+    "query_id": "Q06",
+    "query": "soot formation and electric field manipulation in microgravity flames",
+    "description": "Ion currents, electrostatic field deflection, and soot particulate growth in laminar flames",
+    "relevant_investigations": [
+      "ACME-E-FIELD",
+      "ACME-CFI",
+      "SPICE",
+      "ACME"
+    ],
+    "relevance_grades": {
+      "ACME-E-FIELD": 3,
+      "ACME-CFI": 3,
+      "SPICE": 2,
+      "ACME": 2
+    }
+  },
+  {
+    "query_id": "Q07",
+    "query": "gaseous laminar diffusion flames and burning rate emulation",
+    "description": "Gas jet burner dynamics and porous burners simulating solid flammability",
+    "relevant_investigations": [
+      "ACME-BRE",
+      "ACME-CFI",
+      "ACME"
+    ],
+    "relevance_grades": {
+      "ACME-BRE": 3,
+      "ACME-CFI": 3,
+      "ACME": 2
+    }
+  },
+  {
+    "query_id": "Q08",
+    "query": "smoke point and particulate emission in co-flow flames",
+    "description": "Measurement of soot generation threshold and radiation characteristics",
+    "relevant_investigations": [
+      "SPICE",
+      "ACME-CFI",
+      "SAME"
+    ],
+    "relevance_grades": {
+      "SPICE": 3,
+      "ACME-CFI": 2,
+      "SAME": 2
+    }
+  },
+  {
+    "query_id": "Q09",
+    "query": "ignition and flammability limits of solid spacecraft polymers",
+    "description": "Thermal degradation, auto-ignition limits, and radiant heating of space materials",
+    "relevant_investigations": [
+      "SOFIE",
+      "BASS-II",
+      "BASS",
+      "SAFFIRE-II"
+    ],
+    "relevance_grades": {
+      "SOFIE": 3,
+      "BASS-II": 3,
+      "BASS": 2,
+      "SAFFIRE-II": 2
+    }
+  },
+  {
+    "query_id": "Q10",
+    "query": "fire suppression methods and extinguishant agents for space exploration",
+    "description": "Extinction using nitrogen diluent, water mist, and vacuum venting",
+    "relevant_investigations": [
+      "BASS-II",
+      "FLEX",
+      "SAFFIRE-III"
+    ],
+    "relevance_grades": {
+      "BASS-II": 3,
+      "FLEX": 3,
+      "SAFFIRE-III": 3
+    }
+  }
+]
